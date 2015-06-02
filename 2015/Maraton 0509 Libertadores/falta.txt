@@ -1,0 +1,5 @@
+12 espada 10 basto 11 basto
+7 espada 1 oro 2 oro
+7 espada 1 oro 6 espada
+7 oro 7 espada 10 espada
+-1 * -1 * -1 *
